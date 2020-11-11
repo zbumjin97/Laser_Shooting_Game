@@ -57,9 +57,9 @@
 
 ---
 ### LSG 총 부분 모델링
-![](https://github.com/zbumjin97/Laser_Shooting_Game/blob/main/MIAD_3Dmodel.jpg)
+![](https://github.com/zbumjin97/Laser_Shooting_Game/blob/main/LSG_gun_3D.jpg)
 ### LSG 총 부분 ATmega328P 회로
-![](https://github.com/zbumjin97/Laser_Shooting_Game/blob/main/MIAD_classification.png)
+![](https://github.com/zbumjin97/Laser_Shooting_Game/blob/main/LSG_gun_circuit.png)
 ### LSG 과녁 부분 ATmega128A 회로
-![](https://github.com/zbumjin97/Laser_Shooting_Game/blob/main/MIAD_display.png)
-### [MIAD 구현 영상](https://www.youtube.com/watch?v=zmJI079PcNQ)
+![](https://github.com/zbumjin97/Laser_Shooting_Game/blob/main/LSG_target_circuit.png)
+### [LSG 구현 영상](https://www.youtube.com/watch?v=zmJI079PcNQ)
