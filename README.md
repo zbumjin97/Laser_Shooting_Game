@@ -63,3 +63,4 @@
 ### LSG 과녁 부분 ATmega128A 회로
 ![](https://github.com/zbumjin97/Laser_Shooting_Game/blob/main/LSG_target_circuit.jpg)
 ### [LSG 구현 영상](https://github.com/zbumjin97/Laser_Shooting_Game/blob/main/LSG_video.mp4)
+* 영상이 다소 길어 다운로드 링크로 연결됩니다.
